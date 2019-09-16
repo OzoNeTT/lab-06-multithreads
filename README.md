@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/OzoNeTT/lab-06-multithreads.svg?branch=master)](https://travis-ci.org/OzoNeTT/lab-06-multithreads)
+![GitHub Repo size](https://img.shields.io/github/repo-size/OzoNeTT/lab-06-multithreads.svg)
+![Some badge](https://img.shields.io/badge/OzoNe-T__T-blue.svg)
+![forthebadge](https://forthebadge.com/images/badges/not-an-issue.svg)
 # Лабораторная работа №6
 
 ## Задание
