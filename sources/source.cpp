@@ -1,4 +1,4 @@
-#include <PicoSHA2/picosha2.h>
+#include "../third-party/PicoSHA2/picosha2.h"
 #include <thread>
 #include <cstdlib>
 #include <vector>
